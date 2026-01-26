@@ -1,0 +1,5 @@
+metric,ssc_tau,ssc_p,best_classical,best_classical_tau,best_classical_p,tau_Degree,tau_PageRank,tau_Betweenness,tau_Katz,top3_hits_ssc,top3_hits_degree,ssc_top1,ssc_top1_frac_of_best,degree_top1,degree_top1_frac_of_best
+Influence,0.857398,9.99634e-13,Katz,-0.172906,0.150442,-0.30483,-0.311943,-0.228112,-0.172906,3,2,0,1,33,0.637537
+Stubbornness,1,6.77432e-39,PageRank,0.115865,0.335252,0.0748386,0.115865,0.0439482,-0.158645,3,0,5,1,33,-0.277826
+Actuator,0.98574,2.44588e-16,PageRank,0.686275,1.14708e-08,0.677198,0.686275,0.529471,0.426025,2,1,32,1,33,0.415699
+Noise,1,6.77432e-39,PageRank,0.814617,1.24604e-11,0.790368,0.814617,0.675964,0.518717,3,3,33,1,33,1
